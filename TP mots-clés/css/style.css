@@ -1,0 +1,17 @@
+body {
+  margin: auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-decoration: underline;
+}
+
+label {
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+
+h2 {
+  text-decoration: underline;
+}
